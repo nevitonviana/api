@@ -1,11 +1,13 @@
 {
     "genres": [
         {
+            "id": 1,
             "img": "./assets/images/ambiente-cover.jpg",
             "title": "Ambiente",
             "searchString": "ambiente"
         },
         {
+            "id": 2,
             "img": "./assets/images/eletronico-cover.png",
             "title": "Eletrônico",
             "searchString": "eletronico"
