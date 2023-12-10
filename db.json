@@ -1,5 +1,5 @@
 {
-    "/genres": [
+    "genres": [
         {
             "img": "./assets/images/ambiente-cover.jpg",
             "title": "Ambiente",
@@ -11,7 +11,7 @@
             "searchString": "eletronico"
         }
     ],
-    "/genres/ambiente": {
+    "genres/ambiente": {
         "img": "./assets/images/ambiente-cover.jpg",
         "title": "Ambiente",
         "searchString": "ambiente",
@@ -72,7 +72,7 @@
             }
         ]
     },
-    "/genres/eletronico": {
+    "genres/eletronico": {
         "img": "./assets/images/eletronico-cover.png",
         "title": "Eletrônico",
         "searchString": "eletronico",
