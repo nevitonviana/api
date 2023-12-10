@@ -1,4 +1,8 @@
 {
+  "genres": [
+        { "img": "./assets/images/ambiente-cover.jpg", "title": "Ambiente", "searchString": "ambiente"},
+        { "img": "./assets/images/eletronico-cover.png", "title": "Eletrônico", "searchString": "eletronico"}
+   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -11,7 +15,4 @@
   "profile": {
     "name": "typicode"
   }
- "genres": [
-        { "img": "./assets/images/ambiente-cover.jpg", "title": "Ambiente", "searchString": "ambiente"},
-        { "img": "./assets/images/eletronico-cover.png", "title": "Eletrônico", "searchString": "eletronico"}
 }
