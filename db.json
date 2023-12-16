@@ -4,10 +4,40 @@
         { "img": "./assets/images/eletronico-cover.png", "title": "Eletrônico", "searchString": "eletronico"}
    ],
   "ambiente": {
-        "img": "./assets/images/ambiente-cover.jpg",
+   "img": "./assets/images/ambiente-cover.jpg",
         "title": "Ambiente",
         "searchString": "ambiente",
         "musics": [
+            {
+                "img": "./assets/images/ambiente-musica-1.jpg",
+                "title": "Touch and Sound",
+                "path": "musics/touch-and-sound-113676.mp3",
+                "duration": 261
+            },
+            {
+                "img": "./assets/images/ambiente-musica-2.jpg",
+                "title": "Middle East",
+                "path": "musics/middle-east-127104.mp3",
+                "duration": 182
+            },
+            {
+                "img": "./assets/images/ambiente-musica-3.jpg",
+                "title": "Muladara chakra music",
+                "path": "musics/muladara-chakra-music-138093.mp3",
+                "duration": 314
+            },
+            {
+                "img": "./assets/images/ambiente-musica-4.jpg",
+                "title": "Believe in Miracle by PrabajithK",
+                "path": "musics/believe-in-miracle-by-prabajithk-121041.mp3",
+                "duration": 122
+            },
+            {
+                "img": "./assets/images/ambiente-musica-5.png",
+                "title": "Hang Drum Meditations",
+                "path": "musics/hang-drum-meditations-137894.mp3",
+                "duration": 336
+            },
             {
                 "img": "./assets/images/ambiente-musica-6.jpg",
                 "title": "Ambient Piano [Prod by BalanceBay",
