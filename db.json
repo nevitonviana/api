@@ -16,37 +16,6 @@
       { "img": "./assets/images/ambiente-musica-9.jpg", "title": "Winter Backseat Kiss", "path": "musics/winter-backseat-kiss-130997.mp3", "duration": 191 }
     ]
     },
-    "/genres/eletronico": {
-        "img": "./assets/images/eletronico-cover.png",
-        "title": "Eletrônico",
-        "searchString": "eletronico",
-        "musics": [
-            {
-                "img": "./assets/images/eletronic-music-1.jpg",
-                "title": "Lifelike",
-                "path": "musics/lifelike-126735.mp3",
-                "duration": 144
-            },
-            {
-                "img": "./assets/images/eletronic-music-2.jpg",
-                "title": "Powerful Beat",
-                "path": "musics/powerful-beat-121791.mp3",
-                "duration": 73
-            },
-            {
-                "img": "./assets/images/eletronic-music-3.jpg",
-                "title": "Password Infinity",
-                "path": "musics/password-infinity-123276.mp3",
-                "duration": 145
-            },
-            {
-                "img": "./assets/images/eletronic-music-4.jpg",
-                "title": "Stay Free",
-                "path": "musics/stay-free-138363.mp3",
-                "duration": 141
-            }
-        ]
-    }
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
