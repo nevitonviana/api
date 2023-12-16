@@ -3,6 +3,25 @@
         { "img": "./assets/images/ambiente-cover.jpg", "title": "Ambiente", "searchString": "ambiente"},
         { "img": "./assets/images/eletronico-cover.png", "title": "Eletrônico", "searchString": "eletronico"}
    ],
+    "/genres/ambiente": {
+        "img": "./assets/images/ambiente-cover.jpg",
+        "title": "Ambiente",
+        "searchString": "ambiente",
+        "musics": [
+            {
+                "img": "./assets/images/ambiente-musica-1.jpg",
+                "title": "Touch and Sound",
+                "path": "musics/touch-and-sound-113676.mp3",
+                "duration": 261
+            },
+            {
+                "img": "./assets/images/ambiente-musica-2.jpg",
+                "title": "Middle East",
+                "path": "musics/middle-east-127104.mp3",
+                "duration": 182
+            },
+    ]
+    },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
