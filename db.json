@@ -3,7 +3,7 @@
         { "img": "./assets/images/ambiente-cover.jpg", "title": "Ambiente", "searchString": "ambiente"},
         { "img": "./assets/images/eletronico-cover.png", "title": "Eletrônico", "searchString": "eletronico"}
    ],
- "/genres/ambiente": {
+ "ambiente": {
         "img": "./assets/images/ambiente-cover.jpg",
         "title": "Ambiente",
         "searchString": "ambiente",
