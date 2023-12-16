@@ -9,12 +9,6 @@
         "searchString": "ambiente",
         "musics": [
             {
-                "img": "./assets/images/ambiente-musica-5.png",
-                "title": "Hang Drum Meditations",
-                "path": "musics/hang-drum-meditations-137894.mp3",
-                "duration": 336
-            },
-            {
                 "img": "./assets/images/ambiente-musica-6.jpg",
                 "title": "Ambient Piano [Prod by BalanceBay",
                 "path": "musics/ambient-piano-prod-by-balancebay-109400.mp3",
